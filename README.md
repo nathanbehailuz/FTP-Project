@@ -1,4 +1,4 @@
-# Network Communication Project: File Transport Protocol
+# File Transport Protocol Project
 
 ## Overview
 
