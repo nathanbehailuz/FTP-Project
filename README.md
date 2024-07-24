@@ -19,14 +19,7 @@ This project demonstrates a simple client-server network communication using C. 
 
 ### Compilation
 
-To compile the client and server programs, use the following commands:
-
-```sh
-gcc -o client client.c
-gcc -o server server.c
-```
-
-Alternatively, if you have a `Makefile`, you can simply run:
+To compile the client and server programs, you can simply run:
 
 ```sh
 make
